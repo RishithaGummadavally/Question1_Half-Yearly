@@ -1,0 +1,38 @@
+
+*{
+    background-color: rgb(255, 252, 246);
+}
+.first{
+    display: grid;
+    grid-template-columns: auto auto;
+    padding-left: 200px;
+    padding-top: 20px;
+    column-gap: 30px;
+}
+h2{
+    padding-left: 200px;
+    font-family: 'Mukta', sans-serif;
+    font-size: 30px;
+
+}
+.item2{
+    padding-top: 40px;
+    max-width: 75%;
+    font-family: 'Mukta', sans-serif;
+    }
+.second{
+    display:grid;
+    grid-template-columns: 400px 400px 400px;
+    padding-left: 100px;
+}
+.item6{
+    max-width: 75%;
+    font-family: 'Mukta', sans-serif;
+}
+.item7{
+    max-width: 75%;
+    font-family: 'Mukta', sans-serif;
+}.item8{
+    max-width: 75%;
+    font-family: 'Mukta', sans-serif;
+}
